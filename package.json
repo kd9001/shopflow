@@ -1,1 +1,1 @@
-{ "name": "shopflow", "version": "1.0.0", "description": "E-commerce REST API" }
+{ "name": "shopflow", "version": "1.0.0", "description": "E-commerce REST API", "main": "server.js" }
